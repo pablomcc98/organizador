@@ -1,0 +1,5 @@
+Formularios.FrmAgregarTarea$1
+Formularios.FrmAgregarTarea$4
+Formularios.FrmAgregarTarea$2
+Formularios.FrmAgregarTarea
+Formularios.FrmAgregarTarea$3

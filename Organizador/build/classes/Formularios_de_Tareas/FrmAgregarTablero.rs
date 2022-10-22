@@ -1,0 +1,4 @@
+Formularios.FrmAgregarTablero
+Formularios.FrmAgregarTablero$1
+Formularios.FrmAgregarTablero$2
+Formularios.FrmAgregarTablero$3
